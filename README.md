@@ -1,4 +1,4 @@
-# Computer-Networks
+# Computer-Netw
 Network Design and Implementation assignment typically includes multiple parts that cover the design, configuration, and security of a business network. Here are the main sections usually included:
 ## 1. Project Scope & Business Requirements
 Description of the business (type, size, and locations).
