@@ -1,3 +1,4 @@
+All the assignment work is listed on the CMIT350 folder.
 # Network Configuration Proposal Assignment 
 Network Design and Implementation assignment typically includes multiple parts that cover the design, configuration, and security of a business network. Here are the main sections usually included:
 ## 1. Project Scope & Business Requirements
